@@ -16,7 +16,7 @@ const animateSentence = (sentence) => {
       }, timer);
     }
   }
-}
+};
 
 // Test/driver code.
 animateSentence('My favorite foods are:\n1) Fish & Chips\n2) Pizza\n3) Fried Chicken');
